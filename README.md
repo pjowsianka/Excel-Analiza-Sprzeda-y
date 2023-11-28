@@ -43,6 +43,9 @@ Utworzono tabele i wykresy, które pozwalają na głębszą analizę danych.
 
 Na arkuszu "Analiza" opisano wnioski z analizy wykresów oraz zaproponowano dalsze działania na podstawie uzyskanych danych.
 
+![image](https://github.com/pjowsianka/Excel-Analiza-Sprzeda-y/assets/130370888/b6a7599f-e017-4906-8acf-dd811735bab5)
+
+
 ## Zadanie 2
 
 ### 1. Przeniesienie kolumny "transactionid"
