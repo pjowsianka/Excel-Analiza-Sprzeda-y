@@ -1,4 +1,13 @@
-# Data Analysis - Tasks 1 and 2
+# Sales Analysis
+
+
+Welcome to the README for the Data Analysis project encompassing Tasks 1 and 2. This document provides an overview of the analyses conducted on data from Excel files.
+
+Unfortunately, the project and the Excel file, along with its analysis, are in Polish. I apologize for any inconvenience this may cause to non-Polish speakers.
+
+If you prefer to read this README in Polish, please check the [Polish version](README.pl.md).
+
+## Project Task Descriptions
 
 ### TASK 1 – Data in CSV
 
@@ -28,62 +37,62 @@ Prepare an Excel dashboard that addresses the above questions. Describe the step
   
 - **Task 2:** Data for the second task was made available in the file [Sales in H2 2022.xlsx.](Sprzedaż%20w%20II%20półroczu%202022.xlsx)
 
-## Task 1
+### Task 1
 
-### 1. Loading Data from CSV File
+#### 1. Loading Data from CSV File
 
 The data was loaded from a CSV file into the appropriate data structure.
 
-### 2. Decimal Separator Conversion
+#### 2. Decimal Separator Conversion
 
 In the "revenues2" column, dots were replaced with commas to enable correct interpretation of decimal numbers.
 
-### 3. Date Processing
+#### 3. Date Processing
 
 For better data analysis, dates were split into three separate columns: day, month, and year. These variables were then transformed into a universal format for proper sorting.
 
-### 4. Removing Unnecessary Spaces
+#### 4. Removing Unnecessary Spaces
 
 The "traffic source" column applied the remove.extra.spaces (trim) function to eliminate excess spaces and create a new column with corrected data.
 
-### 5. Creating a Pivot Table
+#### 5. Creating a Pivot Table
 
 Based on processed data, a pivot table was created, allowing data grouping according to selected categories and performing calculations.
 
-### 6. Creating Calculated Fields
+#### 6. Creating Calculated Fields
 
 Using the pivot table, calculated fields such as average revenue per session or conversion were created.
 
-### 7. Creating Tables and Charts for Analysis
+#### 7. Creating Tables and Charts for Analysis
 
 Tables and charts were created to allow for a deeper analysis of the data.
 
-### 8. Creating the "Analysis" Sheet
+#### 8. Creating the "Analysis" Sheet
 
 On the "Analysis" sheet, conclusions from the analysis of charts were described, and further actions based on the obtained data were proposed.
 
 ![image](https://github.com/pjowsianka/Excel-Analiza-Sprzeda-y/assets/130370888/b6a7599f-e017-4906-8acf-dd811735bab5)
 
 
-## Task 2
+### Task 2
 
-### 1. Moving the "transactionid" Column
+#### 1. Moving the "transactionid" Column
 
 The "transactionid" column was moved to the left side of the first table to apply the VLOOKUP function.
 
-### 2. Using the VLOOKUP Function
+#### 2. Using the VLOOKUP Function
 
 The VLOOKUP function was applied to the second table, and the results were moved to a new sheet named "Data Table."
 
-### 3. Replacing Dots with Commas
+#### 3. Replacing Dots with Commas
 
 In the "revenues" column, dots were replaced with commas using the Ctrl+H key combination, enabling the correct interpretation of numerical data by Excel.
 
-### 4. Creating Pivot Tables and Charts
+#### 4. Creating Pivot Tables and Charts
 
 Pivot tables along with relevant charts were created, addressing the analysis questions.
 
-### 5. Creating a Dashboard
+#### 5. Creating a Dashboard
 
 A dashboard was created, combining all charts, allowing easy monitoring and analysis of data.
 
