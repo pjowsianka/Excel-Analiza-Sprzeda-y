@@ -1,9 +1,9 @@
 # Sales Analysis
 
 
-Welcome to the README for the Data Analysis project encompassing Tasks 1 and 2. This document provides an overview of the analyses conducted on data from Excel files.
+Welcome to the README for the Data Analysis project encompassing Tasks 1 and 2. This document provides an overview of performed activities in this project.
 
-Unfortunately, the project and the Excel file, along with its analysis, are in Polish. I apologize for any inconvenience this may cause to non-Polish speakers.
+Unfortunately, the Excel file, along with its analysis, are in Polish. I apologize for any inconvenience this may cause to non-Polish speakers.
 
 If you prefer to read this README in Polish, please check the [Polish version](README.pl.md).
 
