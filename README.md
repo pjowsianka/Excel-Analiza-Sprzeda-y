@@ -45,7 +45,7 @@ The data was loaded from a CSV file into the appropriate data structure.
 
 #### 2. Decimal Separator Conversion
 
-In the "revenues2" column, dots were replaced with commas to enable correct interpretation of decimal numbers.
+In the "przychody2" column, dots were replaced with commas to enable correct interpretation of decimal numbers.
 
 #### 3. Date Processing
 
@@ -53,7 +53,7 @@ For better data analysis, dates were split into three separate columns: day, mon
 
 #### 4. Removing Unnecessary Spaces
 
-The "traffic source" column applied the remove.extra.spaces (trim) function to eliminate excess spaces and create a new column with corrected data.
+The "źródło ruchu" column applied the remove.extra.spaces (trim) function to eliminate excess spaces and create a new column with corrected data.
 
 #### 5. Creating a Pivot Table
 
@@ -69,7 +69,7 @@ Tables and charts were created to allow for a deeper analysis of the data.
 
 #### 8. Creating the "Analysis" Sheet
 
-On the "Analysis" sheet, conclusions from the analysis of charts were described, and further actions based on the obtained data were proposed.
+On the "Analiza" sheet, conclusions from the analysis of charts were described, and further actions based on the obtained data were proposed.
 
 ![image](https://github.com/pjowsianka/Excel-Analiza-Sprzeda-y/assets/130370888/b6a7599f-e017-4906-8acf-dd811735bab5)
 
@@ -82,11 +82,11 @@ The "transactionid" column was moved to the left side of the first table to appl
 
 #### 2. Using the VLOOKUP Function
 
-The VLOOKUP function was applied to the second table, and the results were moved to a new sheet named "Data Table."
+The VLOOKUP function was applied to the second table, and the results were moved to a new sheet named "TabelaDanych"
 
 #### 3. Replacing Dots with Commas
 
-In the "revenues" column, dots were replaced with commas using the Ctrl+H key combination, enabling the correct interpretation of numerical data by Excel.
+In the "przychody" column, dots were replaced with commas using the Ctrl+H key combination, enabling the correct interpretation of numerical data by Excel.
 
 #### 4. Creating Pivot Tables and Charts
 
